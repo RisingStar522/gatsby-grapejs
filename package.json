@@ -16,7 +16,19 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "ckeditor4": "^4.18.0",
+    "ckeditor5": "^34.0.0",
+    "eslint-plugin-ckeditor5-rules": "^4.0.0",
     "gatsby": "^4.13.0",
+    "gatsby-plugin-image": "^2.13.0",
+    "gatsby-plugin-sharp": "^4.13.0",
+    "gatsby-source-filesystem": "^4.13.0",
+    "grapesjs": "^0.18.4",
+    "grapesjs-plugin-ckeditor": "^0.0.10",
+    "grapesjs-plugin-ckeditor-ca": "^0.0.10",
+    "grapesjs-preset-newsletter": "^0.2.21",
+    "grapesjs-preset-webpage": "^0.1.11",
+    "grapesjs-react": "^4.0.1-alpha",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
